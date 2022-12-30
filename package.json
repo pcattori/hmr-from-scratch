@@ -12,8 +12,11 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "@types/fs-extra": "^9.0.13",
     "commander": "^9.4.1",
+    "esbuild": "^0.16.12",
     "express": "^4.18.2",
+    "fs-extra": "^11.1.0",
     "morgan": "^1.10.0"
   }
 }
