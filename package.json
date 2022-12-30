@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@types/fs-extra": "^9.0.13",
+    "chokidar": "^3.5.3",
     "commander": "^9.4.1",
     "esbuild": "^0.16.12",
     "express": "^4.18.2",
